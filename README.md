@@ -126,7 +126,7 @@ Projektet är färdigt att kompileras till en `.exe` med **PyInstaller**.
 Projektet använder en `.env`-fil för känslig information som API-nycklar. Skapa en fil i projektets rot med följande innehåll:
 ```
 API KEY = din nyckel
-
+(Glöm inte att döpa om .env.exemple till .env)
 ## 💻 Installation, virtuell miljö och körning
 
 1️⃣ **Kloning av repo**
