@@ -53,6 +53,7 @@ Projektet är färdigt att kompileras till en `.exe` med **PyInstaller**.
   pip install numpy
   pip install pandas
   pip install sentence-transformers
+  pip install statsmodels
   ```
 
 ## 🔑 Miljövariabler
